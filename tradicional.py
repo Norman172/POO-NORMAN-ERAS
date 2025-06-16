@@ -3,7 +3,7 @@ Implementa una solución utilizando estructuras de funciones.
 Define funciones para la entrada de datos diarios (temperaturas) y el cálculo del promedio semanal.
 Organiza el código de manera lógica y funcional utilizando la programación tradicional.
 '''
-#definición de la variable semna como string
+#definición de la variable semana como string
 semana=""
 #definición del array que contendrá las temperaturas por día
 temperaturas = []
