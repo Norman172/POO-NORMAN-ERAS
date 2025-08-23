@@ -1,0 +1,24 @@
+================================================================================
+REPORTE DE INVENTARIO
+Fecha: 2025-08-22 21:26:34
+================================================================================
+
+Total de productos: 3
+
+ 1. ID: 001, Nombre: papas, Cantidad: 2, Precio: $1.00
+    Fecha de creación: 2025-08-22 21:25:04
+
+ 2. ID: 002, Nombre: cebollas, Cantidad: 3, Precio: $2.00
+    Fecha de creación: 2025-08-22 21:25:26
+
+ 3. ID: 003, Nombre: baNANO, Cantidad: 4, Precio: $5.00
+    Fecha de creación: 2025-08-22 21:26:18
+
+--------------------------------------------------------------------------------
+ESTADÍSTICAS
+Valor total: $28.00
+Cantidad total: 9
+Productos con stock bajo: 3
+  - papas (ID: 001, Stock: 2)
+  - cebollas (ID: 002, Stock: 3)
+  - baNANO (ID: 003, Stock: 4)

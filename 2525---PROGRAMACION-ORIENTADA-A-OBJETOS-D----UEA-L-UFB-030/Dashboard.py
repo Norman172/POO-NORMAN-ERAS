@@ -50,7 +50,17 @@ class DashboardPOO:
         
         # Archivos de la raíz del workspace
         workspace_root = r'c:\Users\Norman\Desktop\UNIVERSIDAD-DOCUMENTOS\SEGUNDO-SEMESTRE\PROGRAMACION-ORIENTADA-OBJETOS\PROYECTOS\POO-NORMAN-ERAS'
-        for archivo in ['conceptos-poo.py', 'constructores.py', 'poo.py', 'tipos-datos.py', 'tradicional.py']:
+        archivos_raiz = [
+            'conceptos-poo.py', 
+            'constructores.py', 
+            'poo.py', 
+            'tipos-datos.py', 
+            'tradicional.py',
+            'gestion-inventarios-mejorado.py',
+            'test_inventario_mejorado.py'
+        ]
+        
+        for archivo in archivos_raiz:
             ruta_completa = os.path.join(workspace_root, archivo)
             if os.path.exists(ruta_completa):
                 archivos['ARCHIVOS RAÍZ'].append((archivo, ruta_completa))

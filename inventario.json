@@ -1,0 +1,23 @@
+[
+  {
+    "id": "001",
+    "nombre": "papas",
+    "cantidad": 2,
+    "precio": 1.0,
+    "fecha_creacion": "2025-08-22 21:25:04"
+  },
+  {
+    "id": "002",
+    "nombre": "cebollas",
+    "cantidad": 3,
+    "precio": 2.0,
+    "fecha_creacion": "2025-08-22 21:25:26"
+  },
+  {
+    "id": "003",
+    "nombre": "baNANO",
+    "cantidad": 4,
+    "precio": 5.0,
+    "fecha_creacion": "2025-08-22 21:26:18"
+  }
+]

@@ -1,0 +1,29 @@
+================================================================================
+REPORTE DE INVENTARIO
+Fecha: 2025-08-22 21:17:49
+================================================================================
+
+Total de productos: 5
+
+ 1. ID: P001, Nombre: Laptop Dell, Cantidad: 10, Precio: $899.99
+    Fecha de creación: 2025-08-22 21:17:49
+
+ 2. ID: P002, Nombre: Mouse Logitech, Cantidad: 50, Precio: $24.99
+    Fecha de creación: 2025-08-22 21:17:49
+
+ 3. ID: P003, Nombre: Teclado Mecánico, Cantidad: 3, Precio: $129.99
+    Fecha de creación: 2025-08-22 21:17:49
+
+ 4. ID: P004, Nombre: Monitor 4K, Cantidad: 7, Precio: $399.99
+    Fecha de creación: 2025-08-22 21:17:49
+
+ 5. ID: P005, Nombre: SSD 1TB, Cantidad: 2, Precio: $149.99
+    Fecha de creación: 2025-08-22 21:17:49
+
+--------------------------------------------------------------------------------
+ESTADÍSTICAS
+Valor total: $13739.28
+Cantidad total: 72
+Productos con stock bajo: 2
+  - Teclado Mecánico (ID: P003, Stock: 3)
+  - SSD 1TB (ID: P005, Stock: 2)
